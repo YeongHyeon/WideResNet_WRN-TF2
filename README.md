@@ -1,4 +1,4 @@
-[TensorFlow 2] Deep Residual Learning for Image Recognition
+[TensorFlow 2] Wide Residual Networks
 =====
 
 ## Related Repositories
